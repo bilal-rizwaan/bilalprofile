@@ -8,7 +8,7 @@
 <!-- <a href="https://twitter.com/abhisheknaiidu">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> -->
-<a href="hthttps://www.linkedin.com/in/b-i-l-a-l-r-i-z-w-a-n-4a68ab199/">
+<a href="https://www.linkedin.com/in/b-i-l-a-l-r-i-z-w-a-n-4a68ab199/">
   <img align="left" alt="Bilal LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://codepen.io/your-work/">
@@ -16,13 +16,13 @@
 </a>
 <br/>
 <br/>
-hi, i'm [Bilal Rizwaan](bilal-rizwaan.netlify.app), a passionate self-taught front end developer and recently start freelancing  software engineer from Pakistan. my passion for Website  lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Bilal Rizwaan], a passionate self-taught front end developer and recently start freelancing  software engineer from Pakistan. my passion for Website  lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 <br/>
 <br/>
 <img align="right" alt="GIF" src="https://i.postimg.cc/RZfjH6WF/360-F-313404541-e9-YZ3pht6o-EEk-MXuhx-Tboq-XA2-B2-Sh-Nn-C.jpg" width="100%" height="100%" />
 <br/>
 <br/>
-- 💼 any freelance work? do reach, <a href="mailto:bilal.rizwaan1909@gmail.com" >
+- 💼 any freelance work? do reach bilal.rizwaan1909@gmail.com
 - <br/>
 - <br/>
 - 💬 ask me about anything, i am happy to help;
