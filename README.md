@@ -23,4 +23,6 @@ hi, i'm [Bilal Rizwaan](bilal-rizwaan.netlify.app), a passionate self-taught fro
 <br/>
 <br/>
 - 💼 any freelance work? do reach, [email](mailto:bilal.rizwaaan1909@gmail.com) :)
+- <br/>
+<br/>
 - 💬 ask me about anything, i am happy to help;
