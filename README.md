@@ -16,5 +16,11 @@
 </a>
 <br/>
 <br/>
-<br/>
 hi, i'm [Bilal Rizwaan](bilal-rizwaan.netlify.app), a passionate self-taught front end developer and recently start freelancing  software engineer from Pakistan. my passion for Website  lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+<br/>
+<br/>
+<img align="right" alt="GIF" src="https://i.postimg.cc/RZfjH6WF/360-F-313404541-e9-YZ3pht6o-EEk-MXuhx-Tboq-XA2-B2-Sh-Nn-C.jpg" width="500" height="320" />
+<br/>
+<br/>
+- 💼 any freelance work? do reach, [email](mailto:bilal.rizwaaan1909@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
