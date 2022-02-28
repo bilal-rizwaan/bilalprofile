@@ -8,7 +8,7 @@
 <!-- <a href="https://twitter.com/abhisheknaiidu">
   <img align="left" alt=" | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> -->
-<a href="https://www.linkedin.com/in/b-i-l-a-l-r-i-z-w-a-n-4a68ab199/">
+<a href="https://www.linkedin.com/in/bilalrizwaan1909">
   <img align="left" alt="Bilal LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://codepen.io/your-work/">
