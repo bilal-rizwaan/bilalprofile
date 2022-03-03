@@ -1,4 +1,11 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<style>
+
+.markdown-body img[align=right]{
+  padding:0 !important;
+  }
+</style>
 <!-- <a href="">
   <img align="left" alt=" Instagram" width="22px" src="" />
 </a> -->
