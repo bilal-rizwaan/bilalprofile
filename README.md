@@ -5,13 +5,13 @@
   <img align="left" alt=" Instagram" width="22px" src="" />
 </a>
 <a href="">
-  <img align="left" alt="s Discord" width="22px" src="" />
+    <img align="left" alt="s Discord" width="22px" src="" />
 </a> -->
 <!-- <a href="https://twitter.com/">
   <img align="left" alt=" | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> -->
 <a href="https://www.linkedin.com/in/bilalrizwaan1909">
-  <img align="left" alt="Bilal LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Bilal LinkedIN" width="22px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 </a>
 <a href="https://codepen.io/your-work/">
   <img align="left" alt="Bilal Codepen" width="22px" src="https://i.postimg.cc/TwkrN1Wv/images.png" />
