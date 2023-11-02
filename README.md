@@ -1,4 +1,4 @@
-###About Me:
+###<h3>ABOUT ME</h3>:
 <p align="center">
     <i>
         Hi, I'm <b>Bilal M.Rizwan</b>, Front-End-Developer from <b>Pakistan</b> 
