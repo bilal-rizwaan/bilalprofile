@@ -1,6 +1,6 @@
 ###About Me:
 <p align="center">
-    Hi, I'm <b>Bilal M.Rizwan</b>, <mark>Front-End-Developer</mark> from <b>Pakistan</b> 
+    Hi, I'm <b>Bilal M.Rizwan</b>, <i>Front-End-Developer</i> from <b>Pakistan</b> 
     <br>
     💻 I love Writing code, 3d Modeling and learning anything about them 😊
     <br>
