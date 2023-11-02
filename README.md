@@ -34,5 +34,9 @@
 > > :Button label=Figma
 </p> -->
 
+<p align="center">
+    [<kbd> <br> KeyBinding Button <br> </kbd>][KBD]
+</p>
+
 
 
