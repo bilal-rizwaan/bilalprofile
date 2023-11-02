@@ -1,4 +1,4 @@
-### <img src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif" alt="developer gif" height="45px"> About Me:
+###About Me:
 <p align="center">
     Hi, I'm Bilal M.Rizwan, Front-End-Developer from Pakistan
     <br>
