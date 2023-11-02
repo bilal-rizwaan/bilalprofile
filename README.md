@@ -34,19 +34,21 @@
 > > :Button label=Figma
 </p> -->
 
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
+
 <p align="center">
-    <kbd style="background:red;"> <br>HTML5 <br> </kbd>
-    <kbd> <br>CSS <br> </kbd>
-    <kbd> <br>Bootstrap <br> </kbd>
-    <kbd> <br>Wordpress <br> </kbd>
-    <kbd> <br>Javascript <br> </kbd>
-    <kbd> <br>Jquery <br> </kbd>
-    <kbd> <br>Git <br> </kbd>
-    <kbd> <br>GitHub <br> </kbd>
-    <kbd> <br>Blender <br> </kbd>
-    <kbd> <br>Photoshop <br> </kbd>
-    <kbd> <br>AdobeXd <br> </kbd>
-    <kbd> <br>Figma <br> </kbd>
+    <kbd> <br>HTML5 ✅ <br> </kbd>
+    <kbd> <br>CSS ✅ <br> </kbd>
+    <kbd> <br>Bootstrap ✅ <br> </kbd>
+    <kbd> <br>Wordpress ✅ <br> </kbd>
+    <kbd> <br>Javascript ✅ <br> </kbd>
+    <kbd> <br>Jquery ✅ <br> </kbd>
+    <kbd> <br>Git ✅ <br> </kbd>
+    <kbd> <br>GitHub ✅ <br> </kbd>
+    <kbd> <br>Blender ✅ <br> </kbd>
+    <kbd> <br>Photoshop ✅ <br> </kbd>
+    <kbd> <br>AdobeXd ✅ <br> </kbd>
+    <kbd> <br>Figma ✅ <br> </kbd>
 </p>
 
 
