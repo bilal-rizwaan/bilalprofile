@@ -13,7 +13,7 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 
 <p align="center">
-    <kbd> <br>HTML5 ✅ <br> </kbd>
+    <kbd> - ![#c5f015] <br>HTML5 ✅ <br> </kbd>
     <kbd> <br>CSS ✅ <br> </kbd>
     <kbd> <br>Bootstrap ✅ <br> </kbd>
     <kbd> <br>Wordpress 🔎 <br> </kbd>
