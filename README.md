@@ -1,8 +1,8 @@
-<h3 align="center"> ⚡ ABOUT ME ⚡ </h3>
-<p align="center">
+<h3> ⚡ ABOUT ME ⚡ </h3>
+<p>
     <img  src="https://png.pngtree.com/png-vector/20230903/ourmid/pngtree-stylized-3d-website-developer-character-illustration-png-image_9953699.png" height="200px">
 </p>
-<p align="center">
+<p>
     <i>
         Hi, I'm <b>Bilal M.Rizwan</b>, Front-End-Developer from <b>Pakistan</b> 
         <br>
@@ -13,16 +13,14 @@
     <br>
 </p>
 
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
+<h2>🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 
-<p align="center">
+<p>
     <kbd> <br>HTML5 ✅ <br> </kbd>
     <kbd> <br>CSS ✅ <br> </kbd>
     <kbd> <br>Bootstrap ✅ <br> </kbd>
     <kbd> <br>Wordpress 🔎 <br> </kbd>
     <kbd> <br>Javascript ✅ <br> </kbd>
-    <br>
-    <br>
     <kbd> <br>Jquery ✅ <br> </kbd>
     <kbd> <br>Git ✅ <br> </kbd>
     <kbd> <br>GitHub ✅ <br> </kbd>
