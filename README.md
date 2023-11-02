@@ -44,8 +44,6 @@
     <kbd> <br>Javascript ✅ <br> </kbd>
     <br>
     <br>
-    <br>
-    <br>
     <kbd> <br>Jquery ✅ <br> </kbd>
     <kbd> <br>Git ✅ <br> </kbd>
     <kbd> <br>GitHub ✅ <br> </kbd>
