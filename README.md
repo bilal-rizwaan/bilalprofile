@@ -1,7 +1,4 @@
-
-<p align="center">
-  <img src="[https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100](https://capsule-render.vercel.app/api?text=Hey%20Everyone!%F0%9F%95%B9%EF%B8%8F&animation=fadeIn&type=waving&color=gradient&height=100)"/>
-</p>
+### Hi there 🤙
 Here are some ideas to get you started:
 - 🔭 I’m currently working on <b>Sybex Lab (Pvt.) Ltd </b>
 - 🌱 I’m currently learning <b>3d Modeling In Blender</b>
