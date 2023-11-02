@@ -1,6 +1,6 @@
 <h3  align="center"> ⚡ ABOUT ME ⚡ </h3>
 <p  align="center">
-    <img  src="https://png.pngtree.com/png-vector/20230903/ourmid/pngtree-stylized-3d-website-developer-character-illustration-png-image_9953699.png" height="100px">
+    <img  src="https://png.pngtree.com/png-vector/20230903/ourmid/pngtree-stylized-3d-website-developer-character-illustration-png-image_9953699.png" height="200px">
 </p>
 <p align="center">
     <i>
