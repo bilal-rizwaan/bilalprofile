@@ -43,7 +43,6 @@
     <kbd> <br>Wordpress ✅ <br> </kbd>
     <kbd> <br>Javascript ✅ <br> </kbd>
     <br>
-    <br>
     <kbd> <br>Jquery ✅ <br> </kbd>
     <kbd> <br>Git ✅ <br> </kbd>
     <kbd> <br>GitHub ✅ <br> </kbd>
