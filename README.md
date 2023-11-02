@@ -1,3 +1,14 @@
+
+### Hi there 👋<!--
+Here are some ideas to get you started:
+- 🔭 I’m currently working on <b>Sybex Lab (Pvt.) Ltd </b>
+- 🌱 I’m currently learning <b>3d Modeling In Blender</b>
+- 💬 Ask me about <b>Nothing</b>
+- 📫 How to reach me: <b>On Space</b>
+- 😄 Pronouns: <b>Nothing</b>
+- ⚡ Fun fact: <b>Ethan Marcotte first introduced responsive design</b>
+-->      
+
 <h3> ⚡ ABOUT ME ⚡ </h3>
 <p>
     <img  src="https://png.pngtree.com/png-vector/20230903/ourmid/pngtree-stylized-3d-website-developer-character-illustration-png-image_9953699.png" height="200px">
