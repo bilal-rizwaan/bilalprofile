@@ -1,8 +1,3 @@
-<img src="https://png.pngtree.com/png-vector/20230903/ourmid/pngtree-stylized-3d-website-developer-character-illustration-png-image_9953699.png" width="VALUE" height="VALUE" alt="ALTERNATIVE_TEXT" />
-// or
-![ALTERNATIVE_TEXT](URL_TO_YOUR_IMAGE)
-
-
 ### Hi there 🤙
 Here are some ideas to get you started:
 - 🔭 I’m currently working on <b>Sybex Lab (Pvt.) Ltd </b>
