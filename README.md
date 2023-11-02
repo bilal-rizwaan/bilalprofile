@@ -35,7 +35,7 @@
 </p> -->
 
 <p align="center">
-    [<kbd> <br> KeyBinding Button <br> </kbd>][KBD]
+    <kbd> <br> KeyBinding Button <br> </kbd>
 </p>
 
 
