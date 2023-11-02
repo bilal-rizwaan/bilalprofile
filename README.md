@@ -11,21 +11,6 @@
     <br>
     📫 How to reach me 👇
 </p>
-
-### <img src="/images/Developer.gif" alt="developer gif" height="45px"> About Me:
-<p align="center">
-    Hi, I'm Bilal M.Rizwan, Computer Front-End-Developer from Pakistan
-    <br>
-    <br>
-    👨‍🎓 I'm currently studying for a Bachelor's degree in Karachi University
-    <br>
-    💻 I love Writing code, #d Modeling and learning anything about them 😊
-    <br>
-    📚 I’m currently focusing on 3d Modeling
-    <br>
-    📫 How to reach me 👇
-</p>
-
 <p align="center">
   <img title="HTML5" height="25" src="https://www.cnet.com/a/img/resize/6f59de6f421aca65461420ada94716b37c756c87/hub/2011/01/18/8d118cb0-fdc0-11e2-8c7c-d4ae52e62bcc/HTML5-wow.png?auto=webp&fit=crop&height=675&width=1200">
   <img title="CSS" height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREKhdAvY2DUHCZj3Y0udfafUMlJBHG3dBlBw&usqp=CAU">
