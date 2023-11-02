@@ -10,6 +10,8 @@
     📚 I’m currently focusing on 3d Modeling
     <br>
     📫 How to reach me 👇
+    <button class="button" type="submit">Post comment (button)</button>
+
 </p>
 <!-- <p align="center">
 > :Buttons
