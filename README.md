@@ -42,6 +42,10 @@
     <kbd> <br>Bootstrap ✅ <br> </kbd>
     <kbd> <br>Wordpress ✅ <br> </kbd>
     <kbd> <br>Javascript ✅ <br> </kbd>
+    <br>
+    <br>
+    <br>
+    <br>
     <kbd> <br>Jquery ✅ <br> </kbd>
     <kbd> <br>Git ✅ <br> </kbd>
     <kbd> <br>GitHub ✅ <br> </kbd>
