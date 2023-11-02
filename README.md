@@ -11,7 +11,7 @@
     <br>
     📫 How to reach me 👇
 </p>
-<p align="center">
+<!-- <p align="center">
 > :Buttons
 > > :Button label=HTML5
 >
@@ -36,6 +36,6 @@
 > > :Button label=AdobeXd
 >
 > > :Button label=Figma
-</p>
+</p> -->
 
 
