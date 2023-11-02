@@ -1,10 +1,12 @@
 ###About Me:
 <p align="center">
-    Hi, I'm <b>Bilal M.Rizwan</b>, <i>Front-End-Developer</i> from <b>Pakistan</b> 
-    <br>
-    💻 I love Writing code, 3d Modeling and learning anything about them 😊
-    <br>
-    📚 I’m currently focusing on 3d Modeling
+    <i>
+        Hi, I'm <b>Bilal M.Rizwan</b>, Front-End-Developer from <b>Pakistan</b> 
+        <br>
+        💻 I love Writing code, 3d Modeling and learning anything about them 😊
+        <br>
+        📚 I’m currently focusing on 3d Modeling
+    </i>
     <br>
 </p>
 
