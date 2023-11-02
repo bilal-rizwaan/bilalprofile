@@ -35,7 +35,7 @@
 </p> -->
 
 <p align="center">
-    <kbd> <br> KeyBinding Button <br> </kbd>
+    <kbd> <br>HTML5 <br> </kbd>
 </p>
 
 
