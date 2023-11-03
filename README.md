@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: <b>Nothing</b>
 - ⚡ Fun fact: <b>Ethan Marcotte first introduced responsive design</b>
 - <br>
-<p>
+<div style="display: flex;">
  <h3> ⚡ ABOUT ME ⚡ </h3>
  <img  src="https://png.pngtree.com/png-vector/20230903/ourmid/pngtree-stylized-3d-website-developer-character-illustration-png-image_9953699.png" height="200px">
-</p>
+</div>
 <p>
     <i>
         Hi, I'm <b>Bilal M.Rizwan</b>, Front-End-Developer from <b>Pakistan</b> 
